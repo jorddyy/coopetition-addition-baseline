@@ -4,7 +4,7 @@ This repository will help you get started with coopetitions. The task is to modi
 
 ## Metrics
 
-Your solution will be evaluated by Mean Absolute Error metric:
+Your solution will be evaluated by Mean Absolute Error metric: 
 ``` 
 from sklearn.metrics import mean_absolute_error
 def scorer(solution, prediction):
